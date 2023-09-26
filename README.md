@@ -27,7 +27,9 @@
 
 ### BANDS & PDOS ploting.ipynb
   Python code for plotting BANDS and PDOS side by side in a (1 row, 2 column) layout and saving the plot as .png file. It is an interactive code while we running the code we need to give the 'filename', 'background color for bands', and 'PDOS' as input. The background color must be given as hex codes.
-  > BaTiO3_DFT Bands & Pdos.png - Output Bands and PDOS figure .png file
+  > BaTiO3_DFT Bands & Pdos.png - Output Bands and PDOS figure .png file where legend inside the PDOS plot
+  > BaTiO3_DFT Bands & Pdos1.png - Output Bands and PDOS figure .png file where legend outside the PDOS plot
+
 
 
   
