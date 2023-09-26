@@ -10,12 +10,12 @@
   
 **[Title	Fermi	Ticks	Label	HSP	Energy	Edos	Ba$(6s)$	Ba$(5p)$	Ba_tot	Ti$(4s)$	Ti$(3p)$	Ti$(3d)$	Ti_tot	O$(2s)$	O$(2p)$	O_tot	DOS]**
 
-    > Title - It contains the title for Bands, PDOS, and the Title for the plot to be saved.
-    > Fermi - Fermi level in (eV).
-    > Ticks - Highsymmetry points tick positions for BANDS
-    > Label - HSP tick labels
-    > HSP, Energy - Highsymmetry points vs. Energy data obtained from the DFT calculation.
-    > Remainings - PDOS data obtained from DFT calculation.
+     Title - It contains the title for Bands, PDOS, and the Title for the plot to be saved.
+     Fermi - Fermi level in (eV).
+     Ticks - Highsymmetry points tick positions for BANDS
+     Label - HSP tick labels
+     HSP, Energy - Highsymmetry points vs. Energy data obtained from the DFT calculation.
+     Remainings - PDOS data obtained from DFT calculation.
   
 ### Electronic Band Structure Program.ipynb
   Python code for plotting Electronic band structure alone and saving the plot as .png file. The CSV filename has to be replaced inside the code.
@@ -31,7 +31,7 @@
   > BaTiO3_DFT Bands & Pdos1.png - Output Bands and PDOS figure .png file where legend outside the PDOS plot
 
 ### BANDS_PDOS.py
-  It is as same as the **BANDS & PDOS ploting.ipynb**
+  It is as same as the **BANDS & PDOS ploting.ipynb**. 
   It is a Python executable file for Linux env. To execute the code,
   
     > $ chmod +x BANDS_PDOS.py
