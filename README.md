@@ -34,8 +34,9 @@
   It is as same as the **BANDS & PDOS ploting.ipynb**
   It is a Python executable file for Linux env. To execute the code,
   
-      > $ chmod +x BANDS_PDOS.py
-      > $ ./BANDS_PDOS.py
+    > $ chmod +x BANDS_PDOS.py
+    > $ ./BANDS_PDOS.py
+      
   Then enter the file name and hex color code to run it further. 
 
 
